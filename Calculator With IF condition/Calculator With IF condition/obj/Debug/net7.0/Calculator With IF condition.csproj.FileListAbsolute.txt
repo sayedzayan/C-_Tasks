@@ -1,0 +1,15 @@
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\bin\Debug\net7.0\Calculator With IF condition.exe
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\bin\Debug\net7.0\Calculator With IF condition.deps.json
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\bin\Debug\net7.0\Calculator With IF condition.runtimeconfig.json
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\bin\Debug\net7.0\Calculator With IF condition.dll
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\bin\Debug\net7.0\Calculator With IF condition.pdb
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.csproj.AssemblyReference.cache
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.AssemblyInfoInputs.cache
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.AssemblyInfo.cs
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.csproj.CoreCompileInputs.cache
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.dll
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\refint\Calculator With IF condition.dll
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.pdb
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\Calculator With IF condition.genruntimeconfig.cache
+D:\All_Projects\c#coding\Calculator With IF condition\Calculator With IF condition\obj\Debug\net7.0\ref\Calculator With IF condition.dll

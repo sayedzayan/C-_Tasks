@@ -1,0 +1,15 @@
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\bin\Debug\net7.0\Calculatot with Switch and function.exe
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\bin\Debug\net7.0\Calculatot with Switch and function.deps.json
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\bin\Debug\net7.0\Calculatot with Switch and function.runtimeconfig.json
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\bin\Debug\net7.0\Calculatot with Switch and function.dll
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\bin\Debug\net7.0\Calculatot with Switch and function.pdb
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.csproj.AssemblyReference.cache
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.AssemblyInfoInputs.cache
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.AssemblyInfo.cs
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.csproj.CoreCompileInputs.cache
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.dll
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\refint\Calculatot with Switch and function.dll
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.pdb
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\Calculatot with Switch and function.genruntimeconfig.cache
+D:\All_Projects\c#coding\Calculatot with Switch and function\Calculatot with Switch and function\obj\Debug\net7.0\ref\Calculatot with Switch and function.dll

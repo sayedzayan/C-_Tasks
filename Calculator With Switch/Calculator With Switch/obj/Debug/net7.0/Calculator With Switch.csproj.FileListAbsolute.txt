@@ -1,0 +1,15 @@
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\bin\Debug\net7.0\Calculator With Switch.exe
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\bin\Debug\net7.0\Calculator With Switch.deps.json
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\bin\Debug\net7.0\Calculator With Switch.runtimeconfig.json
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\bin\Debug\net7.0\Calculator With Switch.dll
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\bin\Debug\net7.0\Calculator With Switch.pdb
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.csproj.AssemblyReference.cache
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.AssemblyInfoInputs.cache
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.AssemblyInfo.cs
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.csproj.CoreCompileInputs.cache
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.dll
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\refint\Calculator With Switch.dll
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.pdb
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\Calculator With Switch.genruntimeconfig.cache
+D:\All_Projects\c#coding\Calculator With Switch\Calculator With Switch\obj\Debug\net7.0\ref\Calculator With Switch.dll
