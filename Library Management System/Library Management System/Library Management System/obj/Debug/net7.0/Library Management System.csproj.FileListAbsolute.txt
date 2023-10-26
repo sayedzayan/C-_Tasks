@@ -1,0 +1,15 @@
+D:\All_Projects\c#coding\Library Management System\Library Management System\bin\Debug\net7.0\Library Management System.exe
+D:\All_Projects\c#coding\Library Management System\Library Management System\bin\Debug\net7.0\Library Management System.deps.json
+D:\All_Projects\c#coding\Library Management System\Library Management System\bin\Debug\net7.0\Library Management System.runtimeconfig.json
+D:\All_Projects\c#coding\Library Management System\Library Management System\bin\Debug\net7.0\Library Management System.dll
+D:\All_Projects\c#coding\Library Management System\Library Management System\bin\Debug\net7.0\Library Management System.pdb
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.csproj.AssemblyReference.cache
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.AssemblyInfoInputs.cache
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.AssemblyInfo.cs
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.csproj.CoreCompileInputs.cache
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.dll
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\refint\Library Management System.dll
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.pdb
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\Library Management System.genruntimeconfig.cache
+D:\All_Projects\c#coding\Library Management System\Library Management System\obj\Debug\net7.0\ref\Library Management System.dll
