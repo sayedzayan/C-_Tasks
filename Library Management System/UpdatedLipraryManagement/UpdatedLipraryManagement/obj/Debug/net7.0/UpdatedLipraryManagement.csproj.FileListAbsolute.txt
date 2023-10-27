@@ -1,0 +1,15 @@
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\bin\Debug\net7.0\UpdatedLipraryManagement.exe
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\bin\Debug\net7.0\UpdatedLipraryManagement.deps.json
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\bin\Debug\net7.0\UpdatedLipraryManagement.runtimeconfig.json
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\bin\Debug\net7.0\UpdatedLipraryManagement.dll
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\bin\Debug\net7.0\UpdatedLipraryManagement.pdb
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.csproj.AssemblyReference.cache
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.AssemblyInfoInputs.cache
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.AssemblyInfo.cs
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.csproj.CoreCompileInputs.cache
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.dll
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\refint\UpdatedLipraryManagement.dll
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.pdb
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\UpdatedLipraryManagement.genruntimeconfig.cache
+D:\All_Projects\c#coding\UpdatedLipraryManagement\UpdatedLipraryManagement\obj\Debug\net7.0\ref\UpdatedLipraryManagement.dll
